@@ -1,0 +1,31 @@
+
+.error{
+    background: #f2eeee;
+    color: red;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .info{
+    background: blue;
+    padding: 10px; 
+    font-weight: bold;
+  }
+  
+  .success{
+    background: green;
+    padding: 10px; 
+    font-weight: bold;
+  }
+  
+  .warning{
+    background: yellow;
+    padding: 10px; 
+    font-weight: bold;
+  }
+  
+  .flash_msgs{
+    text-align: center;
+    width: 70%;
+    margin: 10px auto;
+  }
