@@ -20,7 +20,7 @@ app.use(express.static('public'));
 
 app.use(express.static('uploads'));
 
-const URI = 'mongodb+srv://codenero:Bambi890@nodenero.4pkajfo.mongodb.net/image-upload?retryWrites=true&w=majority';
+const URI = 'pls enter your mogodb connection string';
 
 mongoose.set('strictQuery', false);
 
